@@ -66,3 +66,6 @@ to the project directory (i.e. 'DNS Server') and then run following command:
 ```sh
 $ python3 -m unittest
 ```
+
+# Credits
+Based off of https://github.com/akapila011/DNS-Server/tree/master
